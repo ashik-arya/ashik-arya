@@ -8,8 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/@aryaashik5" target="blank"><img src="https://img.shields.io/twitter/follow/@aryaashik5?logo=twitter&style=for-the-badge" alt="@aryaashik5" /></a> </p>
 
+- ### 📫 How to Reach Me
 
-- 📫 How to reach me **aryaashik821@gmail.com**
+- 📧 Email: [aryaashik821@gmail.com](mailto:aryaashik821@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/your-username](https://www.linkedin.com/in/ashik-%E2%80%8E-0b71b72a7/)
+- 🖥️ Portfolio: Coming soon!
+
+- ### 🏆 Achievements
+
+- 🚀 Participated in the **Smart India Hackathon 2024** (Internal) at DRIEMS University  
+- 🛠️ Participated at **25th ISTE State Level Convention** by Balasore College of Engineering  
+- 💡 Solved 250+ DSA problems on various platforms  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
